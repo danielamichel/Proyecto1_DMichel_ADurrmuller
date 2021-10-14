@@ -1,2 +1,2 @@
-# Proyecto1_DMichel_AD-rrm-ller
+# Proyecto1_DMichel_ADurrmuller
 Proyecto de simulación financiera
